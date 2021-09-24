@@ -1,6 +1,6 @@
 # LISTADO DE ALUMNOS
 
-- Elias Obregón
+- Elias J. Obregón
 - Joaquín G. Forte
 - Erik D. Villalva
 - Eduardo R. Soto
