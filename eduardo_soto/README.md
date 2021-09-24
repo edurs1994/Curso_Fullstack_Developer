@@ -1,6 +1,6 @@
 # LISTADO DE ALUMNOS
 
-- Germán A. Escalantes Hugues
+- Elias Obregón
 - Joaquín G. Forte
 - Erik D. Villalva
 - Eduardo R. Soto
