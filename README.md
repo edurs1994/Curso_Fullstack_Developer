@@ -1,5 +1,6 @@
 # LISTADO DE ALUMNOS
 
+- Juan D. Brignole
 - Elias J. Obregón
 - Joaquín G. Forte
 - Erik D. Villalva
